@@ -33,7 +33,7 @@ header p {
   flex-basis: 400px;
   margin-bottom: 2rem;
   border: 1px solid #444; /* Daha koyu bir kenarlık rengi */
-  border-radius: 8px;
+  border-radius: 25px;
   text-align: center;
   background-color: #222; /* Koyu kutu arka plan rengi */
 }
