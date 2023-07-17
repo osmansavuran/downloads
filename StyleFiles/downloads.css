@@ -29,8 +29,8 @@ body {
   }
   
   .program {
+    height: 450px;
     flex-basis: 200px;
-    padding: 1rem;a
     margin-bottom: 2rem;
     border: 1px solid #ccc;
     border-radius: 8px;
